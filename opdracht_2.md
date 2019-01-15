@@ -5,7 +5,6 @@ eerste stappen:
 ga naar je eigen map personal a.d.h.v. cd (naam map)
 clone je git d.m.v. git clone 
 
-![Afbeelding 1]()
 
 
 
