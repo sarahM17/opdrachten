@@ -7,8 +7,7 @@ clone je git d.m.v. git clone
 
 
 
-
-
+![Afbeelding1](./img/afbeelding_1.png)
 
 
 
