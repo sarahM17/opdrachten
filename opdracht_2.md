@@ -35,6 +35,7 @@ voer vervolgens een git branch -a uit.
 
 
 
+
 Volgende stap:
 
 git pull origin development
