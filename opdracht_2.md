@@ -29,23 +29,25 @@ volgende stappen:
 ga naar de map van de persoon die je gecloned hebt bv. cd (map persoon)
 voer vervolgens een git branch -a uit.
 
-![Afbeelding2](./img/afbeelding_2.png)
+
+![Afbeelding8](./img/afbeelding_8.png)
 
 
-![Afbeelding3](./img/afbeelding_3.png)
 
 
 Volgende stap:
 
 git pull origin development
 
-![Afbeelding4](./img/afbeelding_4.png)
+![Afbeelding2](./img/afbeelding_2.png)
+
 
 Volgende stap:
 
 git checkout development
 
-![Afbeelding5](./img/afbeelding_5.png)
+![Afbeelding3](./img/afbeelding_3.png)
+
 
 Nu doen we de volgende 4 stappen:
 
@@ -54,7 +56,7 @@ Nu doen we de volgende 4 stappen:
 3. git add .
 4. git commit -m “add random text”
 
-![Afbeelding6](./img/afbeelding_6.png)
+![Afbeelding4](./img/afbeelding_4.png)
 
 
 Nu gaan we de volgende 3 stappen doen:
@@ -66,7 +68,7 @@ Nu gaan we de volgende 3 stappen doen:
 
 Dan zie je dit:
 
-![Afbeelding7](./img/afbeelding_7.png)
+![Afbeelding5](./img/afbeelding_5.png)
 
 Vervolgens zie je dit staan online:
 
