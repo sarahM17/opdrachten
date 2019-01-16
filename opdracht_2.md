@@ -10,7 +10,7 @@ clone je git d.m.v. git clone
 ![Afbeelding1](./img/afbeelding_1.png)
 
 
-![Afbeelding2](./img/afbeelding_2.png)
+![Afbeelding9](./img/afbeelding_9.png)
 
 
 
@@ -28,6 +28,9 @@ volgende stappen:
 
 ga naar de map van de persoon die je gecloned hebt bv. cd (map persoon)
 voer vervolgens een git branch -a uit.
+
+![Afbeelding2](./img/afbeelding_2.png)
+
 
 ![Afbeelding3](./img/afbeelding_3.png)
 
